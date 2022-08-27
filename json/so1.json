@@ -232,10 +232,10 @@
         "answers": [
             "Un indirizzo \ufb01sico fa sempre riferimento alla memoria secondaria",
             "Per rispettare il requisito di rilocazione, occorre trasformare indirizzi \ufb01sici in logici",
-            "Gli indirizzi relativi sono usati nella paginazione",
+            "Gli indirizzi relativi all'inizio dell'immagine di un processo sono usati nella paginazione",
             "Nessuna delle altre opzioni \u00e8 corretta"
         ],
-        "correct": "c",
+        "correct": "d",
         "answers_have_code": 0,
         "code": ""
     },
