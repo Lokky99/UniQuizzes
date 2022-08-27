@@ -619,7 +619,7 @@
             "Il numero di bit di una entry di una tabella delle pagine di ultimo livello \u00e8 uguale al numero di bit di controllo pi\u00f9 il logaritmo (arrotondato all'intero superiore) del massimo numero di frame in memoria principale",
             "Nessuna delle altre opzioni \u00e8 corretta"
         ],
-        "correct": "a",
+        "correct": "c",
         "answers_have_code": 0,
         "code": ""
     },
